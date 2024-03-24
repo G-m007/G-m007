@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautham H</h1>
 <h3 align="center">A passionate CSE Student from India</h3>
-<img align="center" alt="Coding" width="800" height="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214387376/563b4d45-d4ee-4f93-b2fc-4474688aea6a.gif">
+<img align="center" alt="Coding" width="400" height="200" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214387376/563b4d45-d4ee-4f93-b2fc-4474688aea6a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-m007&label=Profile%20views&color=0e75b6&style=flat" alt="g-m007" /> </p>
 
