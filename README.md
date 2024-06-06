@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gautham H</h1>
+<h1 align="center">Hi, I'm Gautham H</h1>
 <h3 align="center">A passionate CSE Student from India</h3>
 <center><img align="center" alt="Coding" width="400" height="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214387376/563b4d45-d4ee-4f93-b2fc-4474688aea6a.gif"></center>
 
