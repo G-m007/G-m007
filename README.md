@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying in **PES University**
 
-- 📫 How to reach me **gauthamhari0@gmail.com**
+- 📫 reach me @ **gauthamhari0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
