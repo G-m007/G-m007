@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Gautham H</h1>
 <h3 align="center">A passionate CSE Student from PES University</h3>
-<center><img align="center" alt="Coding" width="400" height="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214387376/563b4d45-d4ee-4f93-b2fc-4474688aea6a.gif"></center>
-
+<div align="center">
+  <img alt="Coding" width="400" height="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679214387376/563b4d45-d4ee-4f93-b2fc-4474688aea6a.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g-m007&label=Profile%20views&color=0e75b6&style=flat" alt="g-m007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g-m007" alt="g-m007" /></a> </p>
